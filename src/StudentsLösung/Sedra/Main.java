@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     static Scanner scanner = new Scanner(System.in);
-    static double Verzinsung,
+    static double Verzinsung;
 
     public static void main(String[] args) {
 
